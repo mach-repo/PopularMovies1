@@ -42,7 +42,8 @@ public final class NetworkUtils {
 
     public static final String API_KEY_PARAM = "api_key";
 
-    public static final String API_KEY = "b246298de22db32f3645ad9ad3cef8f1";
+    // put your API key here
+    public static final String API_KEY = "";
 
 
     /* redas from the shared prefrence and gets the suitable URL for the query */
