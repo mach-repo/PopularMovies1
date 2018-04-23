@@ -1,13 +1,10 @@
 # PopularMovies
+This is the second project in Udacity's Android Developer Nanodegree. The purpose of this project was to build an app, to help users discover popular and highly rated movies on the web. It displays a scrolling grid of movie trailers, launches a details screen whenever a particular movie is selected, allows users to save favorites, play trailers, and read user reviews. This app utilizes core Android user interface components and fetches movie information using themoviedb.org web API.
 
 <p align="center">
   <img src="http://amerouane.com/wp-content/uploads/2018/04/device-2018-04-22-002623.jpg" width="350"/>
   <img src="http://amerouane.com/wp-content/uploads/2018/04/device-2018-04-22-002720.jpg" width="350"/>
 </p>
-
-
-This is the second project in Udacity's Android Developer Nanodegree. The purpose of this project was to build an app, to help users discover popular and highly rated movies on the web. It displays a scrolling grid of movie trailers, launches a details screen whenever a particular movie is selected, allows users to save favorites, play trailers, and read user reviews. This app utilizes core Android user interface components and fetches movie information using themoviedb.org web API.
-
 
 # Getting Started
 App uses The Movie Database API. You have to enter your API key in order to run the app. You can get your own here https://www.themoviedb.org/account/signup?language=en-EN. Once you have the API key assign it to the variable API_KEY in NetworkUtils.java
